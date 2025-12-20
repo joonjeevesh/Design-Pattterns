@@ -1,4 +1,4 @@
-package org.example.BirdV2;
+package org.example.solidBird.BirdV2;
 
 public class Runner {
     public static void main(String[] args) throws NoSuchMethodException {

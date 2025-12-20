@@ -1,4 +1,4 @@
-package org.example.BirdV1;
+package org.example.solidBird.BirdV1;
 
 public class Runner {
     public static void main(String[] args) {

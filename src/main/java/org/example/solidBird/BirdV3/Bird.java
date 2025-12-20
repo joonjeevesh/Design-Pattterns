@@ -1,4 +1,4 @@
-package org.example.BirdV3;
+package org.example.solidBird.BirdV3;
 
 //this will be used to add common fields/methods
 public abstract class Bird {

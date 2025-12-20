@@ -1,4 +1,4 @@
-package org.example.BirdV2;
+package org.example.solidBird.BirdV2;
 
 public class Penguin extends Bird{
     public Penguin(Double weight, String beak) {

@@ -1,4 +1,4 @@
-package org.example.BirdV2;
+package org.example.solidBird.BirdV2;
 /*
 this will be used ONY to add common fields/methods
 in accordance to SRP and OCP but

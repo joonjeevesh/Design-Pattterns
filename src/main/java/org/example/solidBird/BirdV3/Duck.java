@@ -1,4 +1,4 @@
-package org.example.BirdV3;
+package org.example.solidBird.BirdV3;
 
 import org.example.BirdV3.interfaces.Flyable;
 import org.example.BirdV3.interfaces.Swimmable;

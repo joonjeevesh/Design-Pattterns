@@ -1,4 +1,4 @@
-package org.example.BirdV4.interfaces;
+package org.example.solidBird.BirdV4.interfaces;
 
 public interface IFlyingBehavior {
     public void makeFly();

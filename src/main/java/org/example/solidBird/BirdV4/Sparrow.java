@@ -1,7 +1,6 @@
-package org.example.BirdV4;
+package org.example.solidBird.BirdV4;
 
 import org.example.BirdV4.interfaces.Flyable;
-import org.example.BirdV4.interfaces.IFlyingBehavior;
 
 /*
 Concrete class dependent on another concrete class,
