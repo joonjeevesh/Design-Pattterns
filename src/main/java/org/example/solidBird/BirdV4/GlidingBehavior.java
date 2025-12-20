@@ -1,6 +1,6 @@
 package org.example.solidBird.BirdV4;
 
-import org.example.BirdV4.interfaces.IFlyingBehavior;
+import org.example.solidBird.BirdV4.interfaces.IFlyingBehavior;
 
 public class GlidingBehavior implements IFlyingBehavior {
 

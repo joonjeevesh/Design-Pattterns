@@ -1,6 +1,6 @@
 package org.example.solidBird.BirdV3;
 
-import org.example.BirdV3.interfaces.Flyable;
+import org.example.solidBird.BirdV3.interfaces.Flyable;
 
 public class Sparrow extends Bird implements Flyable {
 

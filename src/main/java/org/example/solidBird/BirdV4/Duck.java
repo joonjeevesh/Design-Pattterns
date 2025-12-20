@@ -1,8 +1,8 @@
 package org.example.solidBird.BirdV4;
 
-import org.example.BirdV4.interfaces.Flyable;
-import org.example.BirdV4.interfaces.IFlyingBehavior;
-import org.example.BirdV4.interfaces.Swimmable;
+import org.example.solidBird.BirdV4.interfaces.Flyable;
+import org.example.solidBird.BirdV4.interfaces.IFlyingBehavior;
+import org.example.solidBird.BirdV4.interfaces.Swimmable;
 
 public class Duck extends Bird implements Swimmable, Flyable {
     private IFlyingBehavior flyingBehavior;

@@ -1,6 +1,6 @@
 package org.example.solidBird.BirdV4;
 
-import org.example.BirdV4.interfaces.Flyable;
+import org.example.solidBird.BirdV4.interfaces.Flyable;
 
 public class Runner {
     public static void main(String[] args) {

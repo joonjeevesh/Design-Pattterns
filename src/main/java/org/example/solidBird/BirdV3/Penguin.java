@@ -1,6 +1,6 @@
 package org.example.solidBird.BirdV3;
 
-import org.example.BirdV3.interfaces.Swimmable;
+import org.example.solidBird.BirdV3.interfaces.Swimmable;
 
 public class Penguin extends Bird implements Swimmable {
     public Penguin(Double weight, String beak) {
