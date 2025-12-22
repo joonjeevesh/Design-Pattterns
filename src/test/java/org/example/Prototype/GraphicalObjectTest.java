@@ -1,9 +1,5 @@
-package org.example;
+package org.example.Prototype;
 
-import org.example.Prototype.BackgroundObject;
-import org.example.Prototype.GraphicalObject;
-import org.example.Prototype.GraphicalObjectRegistry;
-import org.example.Prototype.GraphicalObjectType;
 import org.junit.Assert;
 import org.junit.Test;
 
